@@ -1,16 +1,16 @@
-# flutter_bottom_nav_go_router
+## flutter_bottom_nav_go_router
+A Flutter app with bottom navigation using go_router.
 
-A new Flutter project.
+# Features
 
-## Getting Started
+Bottom navigation with Home, Profile, Settings screens.
+go_router for efficient routing.
+Material Design with Scaffold and BottomNavigationBar.
 
-This project is a starting point for a Flutter application.
+Getting Started
+Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Flutter SDK
+Code editor VS Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Bildschirmfoto 2025-07-03 um 16 59 19](https://github.com/user-attachments/assets/e36d13e0-12e9-470d-9cba-61db4081065d)
